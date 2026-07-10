@@ -58,4 +58,4 @@ Seluruh variabel memiliki 432 observasi bulanan dari Januari 1990 sampai Desembe
 | SARIMAX_DOM | 0.3256 | 0.5004 | 0.3558 |
 | RMSE terendah: Hybrid_GLOBAL | 0.3586 | 0.4705 | 0.3918 |
 
-Hybrid_DOM dipilih sebagai model terbaik karena memperoleh nilai MASE terendah sebesar 0,3523. Model ini juga menghasilkan MAE terendah sebesar 0,3225, sedangkan RMSE terendah diperoleh Hybrid_GLOBAL sebesar 0,4705. `results/`.
+`Hybrid_DOM` dipilih sebagai model terbaik karena memperoleh nilai MASE terendah sebesar 0,3523. Model ini juga menghasilkan MAE terendah sebesar 0,3225, sedangkan RMSE terendah diperoleh `Hybrid_GLOBAL` sebesar 0,4705. `results/`.
