@@ -9,7 +9,7 @@ Repositori ini memuat kode dan data penelitian skripsi **“Peramalan Inflasi In
 - Indikator domestik: suku bunga acuan, kurs USD/IDR, dan cadangan devisa.
 - Indikator global: harga minyak WTI, harga pangan global, harga emas dunia, dan indeks VIX.
 - Model: SARIMA/SARIMAX, LSTM, dan Hybrid SARIMAX–LSTM berbasis koreksi residual.
-- Skenario: BASE, DOM, GLOBAL, dan ALL.
+- Skenario: BASE, DOM (Domestik), GLOBAL, dan ALL (Domestik dan Global).
 
 ## Struktur repositori
 
@@ -44,7 +44,7 @@ python -m venv .venv
 pip install -r requirements.txt
 ```
 
-Buka `notebooks/inflation_forecasting_sarimax_lstm.ipynb`, kemudian jalankan seluruh sel secara berurutan. Notebook membaca CSV dari `data/processed/` dan menyimpan hasil ke `results/`.
+Buka `notebooks/inflation_forecasting_sarimax_lstm.ipynb`, kemudian jalankan seluruh sel secara berurutan. Notebook membaca XLSX dari `data/processed/` dan menyimpan hasil ke `results/`.
 
 ## Validasi
 
