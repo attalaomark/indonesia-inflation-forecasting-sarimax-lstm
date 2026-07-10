@@ -53,7 +53,7 @@ Disertakan:
 
 Tidak disertakan:
 
-- file XLSX yang isinya identik dengan file lain;
+- file CSV yang isinya identik dengan file lain;
 - file lama `SARIMAX_BASE` yang telah digantikan `SARIMA_BASE`;
 - grafik `beras` lama karena variabel final menggunakan nama Harga Pangan Global;
 - 12 grafik prediksi individual karena sudah diwakili grafik model terbaik dan grafik seluruh model;
