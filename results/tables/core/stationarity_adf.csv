@@ -1,0 +1,9 @@
+Variabel,ADF Statistic,p-value,Kritis 5%,Lag,Keputusan
+Inflasi_YoY,-3.4366,0.009771,-2.8686,18,Stasioner (✓)
+dSukuBunga,-6.6029,0.0,-2.8686,18,Stasioner (✓)
+dlog_Kurs,-5.3262,5e-06,-2.8685,15,Stasioner (✓)
+dlog_CadDev,-9.4617,0.0,-2.8683,3,Stasioner (✓)
+dlog_Minyak,-13.9703,0.0,-2.8683,1,Stasioner (✓)
+dlog_Pangan,-13.9222,0.0,-2.8683,1,Stasioner (✓)
+dlog_Emas,-4.0508,0.001167,-2.8684,10,Stasioner (✓)
+dVIX,-11.2265,0.0,-2.8684,5,Stasioner (✓)

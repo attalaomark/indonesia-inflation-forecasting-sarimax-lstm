@@ -1,0 +1,5 @@
+Model,MAE_resid,RMSE_resid,Corr
+Hybrid_BASE,0.3693,0.5078,0.5485
+Hybrid_DOM,0.3225,0.4779,0.5223
+Hybrid_GLOBAL,0.3586,0.4705,0.5061
+Hybrid_ALL,0.4041,0.5304,0.38

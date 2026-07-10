@@ -1,0 +1,5 @@
+Model,order,sorder,AIC_best,White_Noise
+SARIMA_BASE,"(2, 0, 2)","(1, 0, 1, 12)",1185.09,False
+SARIMAX_DOM,"(2, 0, 2)","(0, 0, 1, 12)",1154.62,False
+SARIMAX_GLOBAL,"(2, 0, 2)","(1, 0, 0, 12)",1189.87,False
+SARIMAX_ALL,"(2, 0, 0)","(1, 0, 1, 12)",1167.81,False

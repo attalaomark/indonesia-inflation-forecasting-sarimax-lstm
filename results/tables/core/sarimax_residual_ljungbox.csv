@@ -1,0 +1,13 @@
+Model,Lag,Q-Stat,p-value,White Noise,White Noise Keseluruhan
+SARIMA_BASE,12,26.9973,0.0077,Tidak (✗),Tidak (✗)
+SARIMA_BASE,20,33.7075,0.0282,Tidak (✗),Tidak (✗)
+SARIMA_BASE,24,58.0075,0.0001,Tidak (✗),Tidak (✗)
+SARIMAX_DOM,12,21.1949,0.0476,Tidak (✗),Tidak (✗)
+SARIMAX_DOM,20,27.869,0.1125,Ya (✓),Tidak (✗)
+SARIMAX_DOM,24,28.1132,0.2553,Ya (✓),Tidak (✗)
+SARIMAX_GLOBAL,12,26.6662,0.0086,Tidak (✗),Tidak (✗)
+SARIMAX_GLOBAL,20,33.8809,0.0269,Tidak (✗),Tidak (✗)
+SARIMAX_GLOBAL,24,56.8007,0.0002,Tidak (✗),Tidak (✗)
+SARIMAX_ALL,12,35.8338,0.0003,Tidak (✗),Tidak (✗)
+SARIMAX_ALL,20,46.3189,0.0007,Tidak (✗),Tidak (✗)
+SARIMAX_ALL,24,72.5809,0.0,Tidak (✗),Tidak (✗)

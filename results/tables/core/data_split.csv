@@ -1,0 +1,6 @@
+Subset,Tahap,Periode,N,Proporsi
+Train S1,Stage 1,Feb 1990 — Sep 2018,344,79.8%
+Val S1,Stage 1,Oct 2018 — Apr 2022,43,10.0%
+Test (Holdout),Stage 1 & 2,May 2022 — Dec 2025,44,10.2%
+Train S2 (final),Stage 2,Feb 1990 — Apr 2022,387,89.8%
+Test (Holdout),Stage 2,May 2022 — Dec 2025,44,10.2%

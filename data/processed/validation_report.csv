@@ -1,0 +1,9 @@
+file,column,rows,start_date,end_date,missing_values,duplicate_dates,minimum,maximum,status
+inflasi_ihk_yoy.csv,inflasi_yoy_pct,432,1990-01-01,2025-12-01,0,0,-1.16,82.41,VALID
+suku_bunga_acuan.csv,suku_bunga_acuan_pct,432,1990-01-01,2025-12-01,0,0,3.5,70.81,VALID
+kurs_usd_idr.csv,kurs_usd_idr,432,1990-01-01,2025-12-01,0,0,1804.85,16768.4090909091,VALID
+cadangan_devisa.csv,cadangan_devisa_juta_usd,432,1990-01-01,2025-12-01,0,0,4006.28369173041,149435.1796680122,VALID
+harga_minyak_wti.csv,harga_minyak_wti_usd_per_barel,432,1990-01-01,2025-12-01,0,0,11.35,133.88,VALID
+harga_pangan_global.csv,harga_pangan_global_usd_per_ton,432,1990-01-01,2025-12-01,0,0,162.095238095238,1015.21126461713,VALID
+harga_emas_dunia.csv,harga_emas_dunia_usd_per_troy_ounce,432,1990-01-01,2025-12-01,0,0,256.08,4289.48,VALID
+indeks_vix.csv,indeks_vix,432,1990-01-01,2025-12-01,0,0,10.12545454545455,62.66894736842105,VALID

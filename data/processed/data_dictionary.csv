@@ -1,0 +1,9 @@
+file,column,role,group,unit,description,source_note
+inflasi_ihk_yoy.csv,inflasi_yoy_pct,Target,Target,Persen,Inflasi Indonesia berdasarkan IHK secara Year-on-Year (YoY).,BPS/BI/FRED sesuai dokumentasi penelitian.
+suku_bunga_acuan.csv,suku_bunga_acuan_pct,Eksogen,Domestik,Persen,Suku bunga acuan kebijakan moneter Indonesia.,Bank Indonesia/FRED sesuai dokumentasi penelitian.
+kurs_usd_idr.csv,kurs_usd_idr,Eksogen,Domestik,Rupiah per USD,Rata-rata kurs bulanan USD terhadap rupiah.,Sumber kurs sesuai dokumentasi penelitian.
+cadangan_devisa.csv,cadangan_devisa_juta_usd,Eksogen,Domestik,Juta USD,Cadangan devisa Indonesia dalam juta dolar AS.,Bank Indonesia/FRED sesuai dokumentasi penelitian.
+harga_minyak_wti.csv,harga_minyak_wti_usd_per_barel,Eksogen,Global,USD per barel,Harga minyak mentah West Texas Intermediate (WTI) bulanan.,U.S. Energy Information Administration sesuai dokumentasi penelitian.
+harga_pangan_global.csv,harga_pangan_global_usd_per_ton,Eksogen,Global,USD per ton metrik,Harga pangan global yang digunakan sebagai proksi tekanan harga pangan.,FRED/World Bank sesuai dokumentasi penelitian.
+harga_emas_dunia.csv,harga_emas_dunia_usd_per_troy_ounce,Eksogen,Global,USD per troy ounce,Harga emas dunia bulanan.,World Gold Council sesuai dokumentasi penelitian.
+indeks_vix.csv,indeks_vix,Eksogen,Global,Indeks,Indeks volatilitas global VIX bulanan.,CBOE/FRED sesuai dokumentasi penelitian.

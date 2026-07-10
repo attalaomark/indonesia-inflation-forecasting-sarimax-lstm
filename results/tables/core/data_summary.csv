@@ -1,0 +1,9 @@
+Variabel,Kategori,Sumber,Obs
+Inflasi IHK YoY,Target,"BPS, BI, FRED",444
+Suku Bunga Acuan,Domestik,"BI, FRED",432
+Kurs USD/IDR,Domestik,FRED,432
+Cadangan Devisa,Domestik,FRED,432
+Harga Minyak Dunia,Global,EIA,432
+Harga Pangan Dunia,Global,FRED (Beras Thailand),432
+Harga Emas Dunia,Global,World Gold Council,432
+Indeks VIX,Global,FRED,432

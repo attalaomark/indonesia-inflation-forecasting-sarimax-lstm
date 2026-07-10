@@ -1,0 +1,9 @@
+source_file_uploaded,repository_raw_file,worksheet,source_rows,rows_used,source_start,source_end,research_start,research_end,sha256_raw
+Data_Inflasi_IHK_Indonesia.xlsx,inflasi_ihk_yoy_source.xlsx,Sheet1,444,432,1989-01-01,2025-12-01,1990-01-01,2025-12-01,7ca3a2becaa0400ec795e307e339bc4c6b617538ff0d40e71234069964505bef
+Data_SukuBungaAcuan.xlsx,suku_bunga_acuan_source.xlsx,Sheet1,432,432,1990-01-01,2025-12-01,1990-01-01,2025-12-01,c2367e690602848ca28d4deb3b922869f5e6826711fc7683dd49a3db4735a351
+Data_HistorisKurs_Bulanan.xlsx,kurs_usd_idr_source.xlsx,Data Historis USD_IDR_Bulanan,432,432,1990-01-01,2025-12-01,1990-01-01,2025-12-01,95c49c19c9c68c52fbe3cdf6eac88d75a45624f5da5a90a1944083a918dab65c
+Data_CadanganDevisa.xlsx,cadangan_devisa_source.xlsx,Sheet1,432,432,1990-01-01,2025-12-01,1990-01-01,2025-12-01,e8de2422a011eb682a7b8aa081e32c07bb5ffd3b0ec5f2de4459657a481de2af
+Data_HargaMinyakGlobal.xlsx,harga_minyak_wti_source.xlsx,Sheet1,432,432,1990-01-01,2025-12-01,1990-01-01,2025-12-01,0d3ee290a23ef4750619b74f2122140bae5bf3f836195758628d9467f266842e
+Data_HargaPanganGlobal.xlsx,harga_pangan_global_source.xlsx,Sheet1,432,432,1990-01-01,2025-12-01,1990-01-01,2025-12-01,5eb5d973295e51e3c6388c657b68636500744d22e792711a4fd2da4a4158dbb1
+Data_HargaEmasGlobal.xlsx,harga_emas_dunia_source.xlsx,Sheet1,432,432,1990-01-01,2025-12-01,1990-01-01,2025-12-01,2278ef765b2c8d6d134f8d2b588728110d3bf5b2e886155c2895272b000ed0d6
+Data_IndeksVolitilitasGlobal.xlsx,indeks_vix_source.xlsx,Sheet1,432,432,1990-01-01,2025-12-01,1990-01-01,2025-12-01,2e4d4749f92f82d1cdefce71cd4536e002778c5357d8bb300dcd20ab0fcf8dea
