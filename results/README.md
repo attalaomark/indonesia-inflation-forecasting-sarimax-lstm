@@ -10,7 +10,7 @@ Folder ini berisi keluaran akhir yang dipilih dari `revisi.zip`. Berkas duplikat
 | RMSE terendah | Hybrid_GLOBAL | 0.4705 |
 | MASE terendah | Hybrid_DOM | 0.3523 |
 
-`Hybrid_DOM` merupakan model terbaik apabila pemilihan utama didasarkan pada MAE dan MASE. Dibandingkan `SARIMAX_DOM`, perbaikannya adalah:
+`Hybrid_DOM` dipilih sebagai model terbaik karena memperoleh nilai MASE terendah sebesar 0,3523. MASE digunakan sebagai metrik utama dalam pemilihan model pada penelitian ini. Model tersebut juga memperoleh MAE terendah sebesar 0,3225, sedangkan RMSE terendah diperoleh `Hybrid_GLOBAL` sebesar 0,4705. Dibandingkan `SARIMAX_DOM`, perbaikannya adalah:
 
 - MAE: 0.3256 menjadi 0.3225 (0.95% lebih rendah).
 - RMSE: 0.5004 menjadi 0.4779 (4.50% lebih rendah).
