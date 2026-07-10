@@ -4,11 +4,11 @@ Repositori ini memuat kode dan data penelitian skripsi **“Peramalan Inflasi In
 
 ## Ruang lingkup
 
-- Target: Inflasi IHK Indonesia *Year-on-Year* (YoY).
+- Target: Inflasi Indonesia Berdasarkan IHK *Year-on-Year* (YoY).
 - Periode: Januari 1990–Desember 2025.
 - Indikator domestik: suku bunga acuan, kurs USD/IDR, dan cadangan devisa.
-- Indikator global: harga minyak WTI, harga pangan global, harga emas dunia, dan indeks VIX.
-- Model: SARIMA/SARIMAX, LSTM, dan Hybrid SARIMAX–LSTM berbasis koreksi residual.
+- Indikator global: harga minyak WTI, harga pangan global, harga emas dunia, dan indeks volatilitas global (VIX).
+- Model: SARIMAX, LSTM, dan Hybrid SARIMAX–LSTM berbasis koreksi residual.
 - Skenario: BASE, DOM (Domestik), GLOBAL, dan ALL (Domestik dan Global).
 
 ## Struktur repositori
